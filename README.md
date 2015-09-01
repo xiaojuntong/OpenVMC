@@ -1,5 +1,5 @@
 #开源视频大数据处理框架（Open Source Video Manage&Processing&Search Center） 
-项目需求: 
+项目目标: 
 1.存储PB级别视频数据 
 
 2.并行处理1000路视频并提取内容 
