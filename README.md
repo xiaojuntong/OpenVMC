@@ -1,3 +1,9 @@
+#开源视频大数据处理框架（Open Source Video Manage&Processing&Search Center） 
+项目需求: 
+1.存储PB级别视频数据 
+2.并行处理1000路视频并提取内容 
+3.在分钟级多维度检索TB级别视频信息
+
 # OpenVMC
       《红象云腾开放视频大数据管理平台V1.0使用文档》
 
