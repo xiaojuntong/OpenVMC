@@ -1,4 +1,4 @@
-#开源视频大数据处理框架（Open Source Video Manage&Processing&Search Center） 
+#开源视频大数据处理框架（Open Source Video Manage&Processing&Search Center） 技术QQ群:279386798 
 ##项目目标:
 
 1.存储PB级别视频数据 
